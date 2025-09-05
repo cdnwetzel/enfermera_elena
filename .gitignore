@@ -10,3 +10,6 @@ medical_records/original/
 medical_records/original/*.*
 medical_records/translated/
 medical_records/translated/*.*
+.env
+__pycache__/
+*.pyc
