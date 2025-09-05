@@ -4,3 +4,9 @@ data/2025AA/
 data/2025AA/*.*
 data/2025AA-full/
 data/2025AA-full/*.*
+medical_records/
+medical_records/*.*
+medical_records/original/
+medical_records/original/*.*
+medical_records/translated/
+medical_records/translated/*.*
