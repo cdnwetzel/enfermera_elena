@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+data/2025AA/
+data/2025AA/*.*
+data/2025AA-full/
+data/2025AA-full/*.*

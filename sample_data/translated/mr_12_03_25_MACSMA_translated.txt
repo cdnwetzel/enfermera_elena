@@ -1,0 +1,499 @@
+============================================================
+MEDICAL RECORD TRANSLATION
+Translated by Enfermera Elena
+Using UMLS Full Release Glossary (375,000+ terms)
+============================================================
+
+Detalsidedness of cargos of hospitalización
+Cargos of hospitalizacion by/for division
+San miguel allende / centro hospitalario mac
+Caminute unit of plane angleo a alcocer no. 12 brassica vegetable. Saltito of guadeloupe c. P. 37745 tel. 415 150 39 00
+
+
+
+
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+Pictureologia
+12/03/2025 4355 tomografia exploration for postoperative hemorrhage, thrombosis or infection; chest simple 1 is $5,330. 50 $5,330. 50 $0. 00 $5,330. 50 $852. 88 $6,183. 38
+12/03/2025 20991 interpretscion of studys pacs 1 serv. $30. 10 $30. 10 $0. 00 $30. 10 $4. 82 $34. 92
+14/03/2025 25841 radiumgrafia portatil 1 proyeccion 1 serv. $2,344. 90 $2,344. 90 $0. 00 $2,344. 90 $375. 18 $2,720. 08
+12/03/2025 22009 servicio pictureologia of urgeneatrial septal defect 1 serv. $815. 60 $815. 60 $0. 00 $815. 60 $130. 50 $946. 10
+14/03/2025 20991 interpretscion of studys pacs 1 serv. $30. 10 $30. 10 $0. 00 $30. 10 $4. 82 $34. 92
+$8,551. 20 $0. 00 $8,551. 20 $1,368. 19 $9,919. 39
+
+Inhaallotmentrapia
+12/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 2 serv. $463. 10 $926. 20 $0. 00 $926. 20 $148. 19 $1,074. 39
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+12/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 2 serv. $463. 10 $926. 20 $0. 00 $926. 20 $148. 19 $1,074. 39
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+12/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 2 serv. $463. 10 $926. 20 $0. 00 $926. 20 $148. 19 $1,074. 39
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+13/03/2025 17251 clinical intervention or procedures miscellaneouss of terapia 1 serv. $769. 90 $769. 90 $0. 00 $769. 90 $123. 18 $893. 08
+Rhelixtoria by/for turno
+13/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 2 serv. $463. 10 $926. 20 $0. 00 $926. 20 $148. 19 $1,074. 39
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+13/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 3 serv. $463. 10 $1,389. 30 $0. 00 $1,389. 30 $222. 29 $1,611. 59
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+13/03/2025 17251 clinical intervention or procedures miscellaneouss of terapia 1 serv. $769. 90 $769. 90 $0. 00 $769. 90 $123. 18 $893. 08
+Rhelixtoria by/for turno
+14/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 2 serv. $463. 10 $926. 20 $0. 00 $926. 20 $148. 19 $1,074. 39
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+14/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 3 serv. $463. 10 $1,389. 30 $0. 00 $1,389. 30 $222. 29 $1,611. 59
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+14/03/2025 16982 adminute unit of plane angleistracion of medicaments by/for 2 serv. $463. 10 $926. 20 $0. 00 $926. 20 $148. 19 $1,074. 39
+Via inhalada by/for sesion. No incluye
+Dullriales desechables ni
+Consumibles
+$9,875. 60 $0. 00 $9,875. 60 $1,580. 10 $11,455. 70
+
+Laborateries
+12/03/2025 3646 biometria hematic disorder, unspecifieda completa 1 serv. $263. 40 $263. 40 $0. 00 $263. 40 $42. 14 $305. 54
+12/03/2025 3743 dimero d 1 serv. $1,303. 50 $1,303. 50 $0. 00 $1,303. 50 $208. 56 $1,512. 06
+12/03/2025 18570 quimica sanguinea 30 1 is $1,028. 70 $1,028. 70 $0. 00 $1,028. 70 $164. 59 $1,193. 29
+
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 1 of 8
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+12/03/2025 3703 cpk total 1 serv. $313. 50 $313. 50 $0. 00 $313. 50 $50. 16 $363. 66
+12/03/2025 3704 cpk-mb 1 serv. $601. 40 $601. 40 $0. 00 $601. 40 $96. 22 $697. 62
+12/03/2025 18522 troponin i of alta sensitivity 1 is $3,495. 80 $3,495. 80 $0. 00 $3,495. 80 $559. 33 $4,055. 13
+12/03/2025 3911 times of coagulacion 1 serv. $483. 80 $483. 80 $0. 00 $483. 80 $77. 41 $561. 21
+12/03/2025 3884 reacciones febriles 1 serv. $215. 50 $215. 50 $0. 00 $215. 50 $34. 48 $249. 98
+13/03/2025 3754 examen geneeral of urine 1 serv. $215. 50 $215. 50 $0. 00 $215. 50 $34. 48 $249. 98
+15/03/2025 3646 biometria hematic disorder, unspecifieda completa 1 serv. $263. 40 $263. 40 $0. 00 $263. 40 $42. 14 $305. 54
+15/03/2025 3879 quimica sanguinea 3 1 serv. $294. 60 $294. 60 $0. 00 $294. 60 $47. 14 $341. 74
+15/03/2025 18559 electroleicough sericos of 6 1 serv. $819. 00 $819. 00 $0. 00 $819. 00 $131. 04 $950. 04
+12/03/2025 25504 servicio of laborateries 1 serv. $1,378. 00 $1,378. 00 $0. 00 $1,378. 00 $220. 48 $1,598. 48
+Hospitalizacion
+12/03/2025 25504 servicio of laborateries 1 serv. $1,378. 00 $1,378. 00 $0. 00 $1,378. 00 $220. 48 $1,598. 48
+Hospitalizacion
+12/03/2025 25504 servicio of laborateries 1 serv. $1,378. 00 $1,378. 00 $0. 00 $1,378. 00 $220. 48 $1,598. 48
+Hospitalizacion
+12/03/2025 25504 servicio of laborateries 1 serv. $1,378. 00 $1,378. 00 $0. 00 $1,378. 00 $220. 48 $1,598. 48
+Hospitalizacion
+15/03/2025 25504 servicio of laborateries 1 serv. $1,378. 00 $1,378. 00 $0. 00 $1,378. 00 $220. 48 $1,598. 48
+Hospitalizacion
+15/03/2025 25504 servicio of laborateries 1 serv. $1,378. 00 $1,378. 00 $0. 00 $1,378. 00 $220. 48 $1,598. 48
+Hospitalizacion
+$17,566. 10 $0. 00 $17,566. 10 $2,810. 58 $20,376. 68
+
+Hospitalizacion
+12/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+12/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+12/03/2025 21546 rpbi isolated 1 serv. $75. 20 $75. 20 $0. 00 $75. 20 $12. 03 $87. 23
+12/03/2025 2530 use of gludoes eatter (toma of 3 serv. $99. 10 $297. 30 $0. 00 $297. 30 $47. 57 $344. 87
+Glicemia)
+13/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+13/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+13/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+13/03/2025 21546 rpbi isolated 1 serv. $75. 20 $75. 20 $0. 00 $75. 20 $12. 03 $87. 23
+13/03/2025 16830 pump of infusion adicional 2 serv. $164. 60 $329. 20 $0. 00 $329. 20 $52. 67 $381. 87
+13/03/2025 2530 use of gludoes eatter (toma of 3 serv. $99. 10 $297. 30 $0. 00 $297. 30 $47. 57 $344. 87
+Glicemia)
+14/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+14/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+14/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+14/03/2025 21546 rpbi isolated 1 serv. $75. 20 $75. 20 $0. 00 $75. 20 $12. 03 $87. 23
+14/03/2025 2530 use of gludoes eatter (toma of 3 serv. $99. 10 $297. 30 $0. 00 $297. 30 $47. 57 $344. 87
+Glicemia)
+15/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+15/03/2025 235 diet for patient 1 serv. $165. 60 $165. 60 $0. 00 $165. 60 $26. 50 $192. 10
+13/03/2025 19876 profilaxis 1 serv. $45. 70 $45. 70 $0. 00 $45. 70 $7. 31 $53. 01
+13/03/2025 25672 set of asepsia 1 serv. $2,500. 00 $2,500. 00 $0. 00 $2,500. 00 $400. 00 $2,900. 00
+13/03/2025 26533 renta monitoreo continue of signos 1 serv. $9,850. 00 $9,850. 00 $0. 00 $9,850. 00 $1,576. 00 $11,426. 00
+Vitales and ecg with device
+Portatil inalambrico supplier
+13/03/2025 26253 monitoreo en intensive care 1 serv. $2,417. 50 $2,417. 50 $0. 00 $2,417. 50 $386. 80 $2,804. 30
+13/03/2025 26254 aplicacion of medicament 1 serv. $263. 95 $263. 95 $0. 00 $263. 95 $42. 23 $306. 18
+Intravesnous en intensive care
+14/03/2025 26254 aplicacion of medicament 1 serv. $263. 95 $263. 95 $0. 00 $263. 95 $42. 23 $306. 18
+Intravesnous en intensive care
+14/03/2025 26253 monitoreo en intensive care 1 serv. $2,417. 50 $2,417. 50 $0. 00 $2,417. 50 $386. 80 $2,804. 30
+14/03/2025 26533 renta monitoreo continue of signos 1 serv. $9,850. 00 $9,850. 00 $0. 00 $9,850. 00 $1,576. 00 $11,426. 00
+Vitales and ecg with device
+Portatil inalambrico supplier
+14/03/2025 19876 profilaxis 1 serv. $45. 70 $45. 70 $0. 00 $45. 70 $7. 31 $53. 01
+14/03/2025 25672 set of asepsia 1 serv. $2,500. 00 $2,500. 00 $0. 00 $2,500. 00 $400. 00 $2,900. 00
+13/03/2025 9340 oxigeneo by/for dia 1 serv. $5,167. 40 $5,167. 40 $0. 00 $5,167. 40 $826. 78 $5,994. 18
+
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 2 of 8
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+14/03/2025 26253 monitoreo en intensive care 1 serv. $2,417. 50 $2,417. 50 $0. 00 $2,417. 50 $386. 80 $2,804. 30
+14/03/2025 9340 oxigeneo by/for dia 1 serv. $5,072. 60 $5,072. 60 $0. 00 $5,072. 60 $811. 62 $5,884. 22
+15/03/2025 181 pump of infusion 1 serv. $1,095. 70 $1,095. 70 $0. 00 $1,095. 70 $175. 31 $1,271. 01
+15/03/2025 26253 monitoreo en intensive care 1 serv. $2,417. 50 $2,417. 50 $0. 00 $2,417. 50 $386. 80 $2,804. 30
+15/03/2025 4172 oxigeneo by/for dia 1 serv. $5,167. 40 $5,167. 40 $0. 00 $5,167. 40 $826. 78 $5,994. 18
+15/03/2025 26533 renta monitoreo continue of signos 1 serv. $9,850. 00 $9,850. 00 $0. 00 $9,850. 00 $1,576. 00 $11,426. 00
+Vitales and ecg with device
+Portatil inalambrico supplier
+12/03/2025 26533 renta monitoreo continue of signos 1 serv. $9,850. 00 $9,850. 00 $0. 00 $9,850. 00 $1,576. 00 $11,426. 00
+Vitales and ecg with device
+Portatil inalambrico supplier
+12/03/2025 26253 monitoreo en intensive care 1 serv. $2,417. 50 $2,417. 50 $0. 00 $2,417. 50 $386. 80 $2,804. 30
+12/03/2025 19876 profilaxis 1 serv. $208. 00 $208. 00 $0. 00 $208. 00 $33. 28 $241. 28
+12/03/2025 4172 oxigeneo by/for dia 1 serv. $5,167. 40 $5,167. 40 $0. 00 $5,167. 40 $826. 78 $5,994. 18
+12/03/2025 2585 oximeter by/for dia 1 serv. $5,143. 60 $5,143. 60 $0. 00 $5,143. 60 $822. 98 $5,966. 58
+13/03/2025 2585 oximeter by/for dia 1 serv. $5,143. 60 $5,143. 60 $0. 00 $5,143. 60 $822. 98 $5,966. 58
+14/03/2025 2585 oximeter by/for dia 1 serv. $5,143. 60 $5,143. 60 $0. 00 $5,143. 60 $822. 98 $5,966. 58
+15/03/2025 2585 oximeter by/for dia 1 serv. $5,143. 60 $5,143. 60 $0. 00 $5,143. 60 $822. 98 $5,966. 58
+15/03/2025 4172 oxigeneo by/for dia 1 serv. $5,167. 40 $5,167. 40 $0. 00 $5,167. 40 $826. 78 $5,994. 18
+$107,829. 80 $0. 00 $107,829. 80 $17,252. 77 $125,082. 57
+
+Emergenecy department
+12/03/2025 4983 query geneeral (8 - 20 hours). 1 serv. $340. 70 $340. 70 $0. 00 $340. 70 $54. 51 $395. 21
+12/03/2025 5944 cubiculo of observescion emergenecy department 1 serv. $1,078. 70 $1,078. 70 $0. 00 $1,078. 70 $172. 59 $1,251. 29
+12/03/2025 2521 toma of vital signs 1 serv. $65. 50 $65. 50 $0. 00 $65. 50 $10. 48 $75. 98
+12/03/2025 174 right of emergenecy department by/for hour or 1 serv. $468. 00 $468. 00 $0. 00 $468. 00 $74. 88 $542. 88
+Fraccion
+12/03/2025 8292 rpbi emergenecy department 1 serv. $61. 50 $61. 50 $0. 00 $61. 50 $9. 84 $71. 34
+12/03/2025 25526 use of pump infusion emergenecy department 1 serv. $195. 00 $195. 00 $0. 00 $195. 00 $31. 20 $226. 20
+12/03/2025 2523 aplicacion of medicament 1 serv. $115. 90 $115. 90 $0. 00 $115. 90 $18. 54 $134. 44
+Intravesnous
+12/03/2025 8292 rpbi emergenecy department 1 serv. $61. 50 $61. 50 $0. 00 $61. 50 $9. 84 $71. 34
+$2,386. 80 $0. 00 $2,386. 80 $381. 89 $2,768. 69
+
+Insumos
+12/03/2025 20867 torunda alcohtidal waveda webbrassica vegetable 1 pza $6. 60 $6. 60 $0. 00 $6. 60 $1. 06 $7. 66
+326899/6818/20867
+12/03/2025 15023 glove nitrile medium c/100 15023 10 pza $8. 00 $80. 00 $0. 00 $80. 00 $12. 80 $92. 80 [15023 g]
+12/03/2025 1214 sojackfishn hartman ht 1000ml pisa 1 pza $311. 60 $311. 60 $0. 00 $311. 60 $49. 86 $361. 46 [1000ml]
+4000089
+12/03/2025 7853 fleboatk with claves for pump 1 pza $566. 80 $566. 80 $0. 00 $566. 80 $90. 69 $657. 49
+4002759/x-is-002d /tcn22-0178-00
+12/03/2025 7854 fleboatk quirurgico with claves pisa 1 pza $251. 80 $251. 80 $0. 00 $251. 80 $40. 29 $292. 09
+4001967
+12/03/2025 966 claves c/limension 13 cm 2 vias micro 1 pza $326. 50 $326. 50 $0. 00 $326. 50 $52. 24 $378. 74
+4023633
+12/03/2025 8366 cateter veincat g18 verde 4013737 1 pza $88. 80 $88. 80 $0. 00 $88. 80 $14. 21 $103. 01
+12/03/2025 24027 venopuncion chlorhexidine vcl001-46 1 pza $287. 20 $287. 20 $0. 00 $287. 20 $45. 95 $333. 15
+24027
+12/03/2025 20867 torunda alcohtidal waveda webbrassica vegetable 10 pza $6. 60 $66. 00 $0. 00 $66. 00 $10. 56 $76. 56
+326899/6818/20867
+12/03/2025 12990 syringe desech s/needle 20ml 12990 2 pza $27. 90 $55. 80 $0. 00 $55. 80 $8. 93 $64. 73 [20ml]
+12/03/2025 12989 syringe desech c/needle 10ml 21x32 2 pza $16. 10 $32. 20 $0. 00 $32. 20 $5. 15 $37. 35 [10ml]
+12989
+12/03/2025 887 needle n0 18 rosa 18x40 mm bd ref 2 pza $7. 30 $14. 60 $0. 00 $14. 60 $2. 34 $16. 94
+300017
+12/03/2025 3953 sojackfishn fisiologica cs 50ml pisa 1 pza $79. 10 $79. 10 $0. 00 $79. 10 $12. 66 $91. 76 [50ml]
+4000393
+12/03/2025 2341 conector universal niple-glue of 1 pza $83. 80 $83. 80 $0. 00 $83. 80 $13. 41 $97. 21
+Raton
+12/03/2025 12987 syringe desech c/needle 3ml 21x32 1 pza $9. 20 $9. 20 $0. 00 $9. 20 $1. 47 $10. 67 [3ml]
+12987
+12/03/2025 3176 mascarilla c/micrumebuliser 1 pza $211. 20 $211. 20 $0. 00 $211. 20 $33. 79 $244. 99
+21+ years old 1885
+12/03/2025 18448 sojackfishn fisiologica cs 250ml 4049546 1 pza $105. 80 $105. 80 $0. 00 $105. 80 $16. 93 $122. 73 [250ml]
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 3 of 8
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+12/03/2025 7853 fleboatk with claves for pump 1 pza $566. 80 $566. 80 $0. 00 $566. 80 $90. 69 $657. 49
+4002759/x-is-002d /tcn22-0178-00
+12/03/2025 19294 aerobika shaftrcitador pulmonary 1 pza $4,390. 20 $4,390. 20 $0. 00 $4,390. 20 $702. 43 $5,092. 63
+12/03/2025 19089 cubremouths tricape c/50 19089 2 pza $17. 50 $35. 00 $0. 00 $35. 00 $5. 60 $40. 60
+12/03/2025 24027 venopuncion chlorhexidine vcl001-46 1 pza $400. 50 $400. 50 $0. 00 $400. 50 $64. 08 $464. 58
+24027
+12/03/2025 7145 pulsera identificacion roja 7145 1 pza $10. 19 $10. 19 $0. 00 $10. 19 $1. 63 $11. 82
+12/03/2025 12989 syringe desech c/needle 10ml 21x32 2 pza $16. 10 $32. 20 $0. 00 $32. 20 $5. 15 $37. 35 [10ml]
+12989
+12/03/2025 1052 bisturi no. 10 1 pza $7. 88 $7. 88 $0. 00 $7. 88 $1. 26 $9. 15
+12/03/2025 12990 syringe desech s/needle 20ml 12990 2 pza $27. 90 $55. 80 $0. 00 $55. 80 $8. 93 $64. 73 [20ml]
+12/03/2025 12989 syringe desech c/needle 10ml 21x32 2 pza $16. 10 $32. 20 $0. 00 $32. 20 $5. 15 $37. 35 [10ml]
+12989
+12/03/2025 15211 tegaderm film 10 x 12 cm, 1626 1 pza $277. 40 $277. 40 $0. 00 $277. 40 $44. 38 $321. 78
+12/03/2025 1257 tegaderm film 6x7cm ref 1624 1 pza $22. 40 $22. 40 $0. 00 $22. 40 $3. 58 $25. 98
+12/03/2025 891 needle n0 25 naranja 25x16mm ref 1 pza $6. 80 $6. 80 $0. 00 $6. 80 $1. 09 $7. 89
+301973
+12/03/2025 887 needle n0 18 rosa 18x40 mm bd ref 1 pza $7. 30 $7. 30 $0. 00 $7. 30 $1. 17 $8. 47
+300017
+12/03/2025 4186 glove latex esteril small c/100 4186 2 pza $7. 90 $15. 80 $0. 00 $15. 80 $2. 53 $18. 33 [4186 g]
+12/03/2025 12988 syringe desech c/needle 5ml 21x32 2 pza $10. 30 $20. 60 $0. 00 $20. 60 $3. 30 $23. 90 [5ml]
+12988
+12/03/2025 7854 fleboatk quirurgico with claves pisa 1 pza $251. 80 $251. 80 $0. 00 $251. 80 $40. 29 $292. 09
+4001967
+12/03/2025 3953 sojackfishn fisiologica cs 50ml pisa 2 pza $79. 10 $158. 20 $0. 00 $158. 20 $25. 31 $183. 51 [50ml]
+4000393
+12/03/2025 12989 syringe desech c/needle 10ml 21x32 3 pza $16. 10 $48. 30 $0. 00 $48. 30 $7. 73 $56. 03 [10ml]
+12989
+12/03/2025 4255 needle spinocan 22gx31 negra 1 pza $237. 50 $237. 50 $0. 00 $237. 50 $38. 00 $275. 50 [22g]
+Ref. 4507908
+12/03/2025 890 needle n0 22 negra 22x32mm ref 300081 1 pza $6. 30 $6. 30 $0. 00 $6. 30 $1. 01 $7. 31
+12/03/2025 20810 alcohol fco 100ml 20810 1 pza $97. 80 $97. 80 $0. 00 $97. 80 $15. 65 $113. 45 [100ml]
+12/03/2025 2341 conector universal niple-glue of 1 pza $83. 80 $83. 80 $0. 00 $83. 80 $13. 41 $97. 21
+Raton
+12/03/2025 16229 does pulls reactivas code free c/50 pzas 6 pza $46. 30 $277. 80 $0. 00 $277. 80 $44. 45 $322. 25
+16229
+12/03/2025 20735 lancet universal c/100 20735 3 pza $19. 00 $57. 00 $0. 00 $57. 00 $9. 12 $66. 12 [20735 l]
+12/03/2025 14877 household humidifier, device desechable 3230 1 pza $327. 50 $327. 50 $0. 00 $327. 50 $52. 40 $379. 90
+12/03/2025 1944 sp waveara oxigeneo 21+ years old v-729/1810 1 pza $211. 10 $211. 10 $0. 00 $211. 10 $33. 78 $244. 88
+4. 2 mts
+12/03/2025 14997 limencion of sp waveara oxigeneo 1 pza $52. 50 $52. 50 $0. 00 $52. 50 $8. 40 $60. 90
+V-725 vis043
+12/03/2025 884 product containing water (medicinal product) iny. P/irrigacion 500ml pisa 1 pza $156. 80 $156. 80 $0. 00 $156. 80 $25. 09 $181. 89 [500ml]
+4000252
+12/03/2025 16229 does pulls reactivas code free c/50 pzas 2 pza $46. 30 $92. 60 $0. 00 $92. 60 $14. 82 $107. 42
+16229
+12/03/2025 20735 lancet universal c/100 20735 2 pza $19. 00 $38. 00 $0. 00 $38. 00 $6. 08 $44. 08 [20735 l]
+12/03/2025 20867 torunda alcohtidal waveda webbrassica vegetable 10 pza $6. 60 $66. 00 $0. 00 $66. 00 $10. 56 $76. 56
+326899/6818/20867
+12/03/2025 14985 diapers pro-med prebent 14985 1 pza $131. 10 $131. 10 $0. 00 $131. 10 $20. 98 $152. 08
+12/03/2025 3953 sojackfishn fisiologica cs 50ml pisa 2 pza $79. 10 $158. 20 $0. 00 $158. 20 $25. 31 $183. 51 [50ml]
+4000393
+12/03/2025 3382 sojackfishn fisiologica cs 100ml 2 pza $89. 20 $178. 40 $0. 00 $178. 40 $28. 54 $206. 94 [100ml]
+Minute unit of plane angleioval pisa 4000394
+12/03/2025 887 needle n0 18 rosa 18x40 mm bd ref 4 pza $7. 30 $29. 20 $0. 00 $29. 20 $4. 67 $33. 87
+300017
+12/03/2025 12989 syringe desech c/needle 10ml 21x32 3 pza $16. 10 $48. 30 $0. 00 $48. 30 $7. 73 $56. 03 [10ml]
+12989
+12/03/2025 12990 syringe desech s/needle 20ml 12990 2 pza $27. 90 $55. 80 $0. 00 $55. 80 $8. 93 $64. 73 [20ml]
+12/03/2025 979 includingdo 21+ years old 979 1 pza $233. 00 $233. 00 $0. 00 $233. 00 $37. 28 $270. 28
+12/03/2025 15009 urinel duck (domestic) p/man white 1 pza $211. 20 $211. 20 $0. 00 $211. 20 $33. 79 $244. 99
+12/03/2025 19654 syringe desech c/needle 1ml 27x13 1 pza $17. 16 $17. 16 $0. 00 $17. 16 $2. 75 $19. 91 [1ml]
+19654
+12/03/2025 12987 syringe desech c/needle 3ml 21x32 1 pza $9. 20 $9. 20 $0. 00 $9. 20 $1. 47 $10. 67 [3ml]
+12987
+
+
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 4 of 8
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+13/03/2025 1214 sojackfishn hartman ht 1000ml pisa 1 pza $311. 60 $311. 60 $0. 00 $311. 60 $49. 86 $361. 46 [1000ml]
+4000089
+13/03/2025 11563 pillow desechable 60x40 11563 1 pza $47. 50 $47. 50 $0. 00 $47. 50 $7. 60 $55. 10
+13/03/2025 19089 cubremouths tricape c/50 19089 2 pza $17. 50 $35. 00 $0. 00 $35. 00 $5. 60 $40. 60
+13/03/2025 1214 sojackfishn hartman ht 1000ml pisa 2 pza $311. 60 $623. 20 $0. 00 $623. 20 $99. 71 $722. 91 [1000ml]
+4000089
+13/03/2025 16229 does pulls reactivas code free c/50 pzas 2 pza $46. 30 $92. 60 $0. 00 $92. 60 $14. 82 $107. 42
+16229
+13/03/2025 20735 lancet universal c/100 20735 2 pza $19. 00 $38. 00 $0. 00 $38. 00 $6. 08 $44. 08 [20735 l]
+13/03/2025 1259 tegaderm iv pediatrico 5x5. 7cm 1259 1 pza $65. 94 $65. 94 $0. 00 $65. 94 $10. 55 $76. 49
+13/03/2025 12987 syringe desech c/needle 3ml 21x32 1 pza $9. 20 $9. 20 $0. 00 $9. 20 $1. 47 $10. 67 [3ml]
+12987
+13/03/2025 12987 syringe desech c/needle 3ml 21x32 1 pza $9. 20 $9. 20 $0. 00 $9. 20 $1. 47 $10. 67 [3ml]
+12987
+14/03/2025 7854 fleboatk quirurgico with claves pisa 2 pza $251. 80 $503. 60 $0. 00 $503. 60 $80. 58 $584. 18
+4001967
+14/03/2025 20867 torunda alcohtidal waveda webbrassica vegetable 5 pza $6. 60 $33. 00 $0. 00 $33. 00 $5. 28 $38. 28
+326899/6818/20867
+14/03/2025 12990 syringe desech s/needle 20ml 12990 2 pza $27. 90 $55. 80 $0. 00 $55. 80 $8. 93 $64. 73 [20ml]
+14/03/2025 887 needle n0 18 rosa 18x40 mm bd ref 2 pza $10. 50 $21. 00 $0. 00 $21. 00 $3. 36 $24. 36
+300017
+14/03/2025 3382 sojackfishn fisiologica cs 100ml 4 pza $89. 20 $356. 80 $0. 00 $356. 80 $57. 09 $413. 89 [100ml]
+Minute unit of plane angleioval pisa 4000394
+14/03/2025 3382 sojackfishn fisiologica cs 100ml -4 pza $89. 20 -$356. 80 $0. 00 -$356. 80 -$57. 09 -$413. 89 [100ml]
+Minute unit of plane angleioval pisa 4000394
+14/03/2025 7854 fleboatk quirurgico with claves pisa -2 pza $251. 80 -$503. 60 $0. 00 -$503. 60 -$80. 58 -$584. 18
+4001967
+14/03/2025 20867 torunda alcohtidal waveda webbrassica vegetable -5 pza $6. 60 -$33. 00 $0. 00 -$33. 00 -$5. 28 -$38. 28
+326899/6818/20867
+14/03/2025 12990 syringe desech s/needle 20ml 12990 -2 pza $27. 90 -$55. 80 $0. 00 -$55. 80 -$8. 93 -$64. 73 [20ml]
+14/03/2025 887 needle n0 18 rosa 18x40 mm bd ref -2 pza $10. 50 -$21. 00 $0. 00 -$21. 00 -$3. 36 -$24. 36
+300017
+14/03/2025 12990 syringe desech s/needle 20ml 12990 1 pza $27. 90 $27. 90 $0. 00 $27. 90 $4. 46 $32. 36 [20ml]
+14/03/2025 887 needle n0 18 rosa 18x40 mm bd ref 1 pza $10. 50 $10. 50 $0. 00 $10. 50 $1. 68 $12. 18
+300017
+14/03/2025 3953 sojackfishn fisiologica cs 50ml pisa 1 pza $79. 10 $79. 10 $0. 00 $79. 10 $12. 66 $91. 76 [50ml]
+4000393
+14/03/2025 7854 fleboatk quirurgico with claves pisa 1 pza $251. 80 $251. 80 $0. 00 $251. 80 $40. 29 $292. 09
+4001967
+14/03/2025 17414 sling 21+ years old 17414 1 pza $297. 40 $297. 40 $0. 00 $297. 40 $47. 58 $344. 98
+14/03/2025 21459 product containing water (medicinal product) san pedro 1lt 21459 1 pza $43. 39 $43. 39 $0. 00 $43. 39 $6. 94 $50. 33 [1l]
+14/03/2025 13262 sponge gloop esteril 7. 5 x 5 ref. 1 paq $82. 60 $82. 60 $0. 00 $82. 60 $13. 22 $95. 82
+4000662
+14/03/2025 1053 bisturi no. 11 1 pza $18. 90 $18. 90 $0. 00 $18. 90 $3. 02 $21. 92
+14/03/2025 1214 sojackfishn hartman ht 1000ml pisa 1 pza $311. 60 $311. 60 $0. 00 $311. 60 $49. 86 $361. 46 [1000ml]
+4000089
+14/03/2025 24027 venopuncion chlorhexidine vcl001-46 1 pza $400. 50 $400. 50 $0. 00 $400. 50 $64. 08 $464. 58
+24027
+14/03/2025 8367 cateter veincat g20 rosa 4013738 1 pza $88. 80 $88. 80 $0. 00 $88. 80 $14. 21 $103. 01
+14/03/2025 20867 torunda alcohtidal waveda webbrassica vegetable 10 pza $6. 60 $66. 00 $0. 00 $66. 00 $10. 56 $76. 56
+326899/6818/20867
+14/03/2025 19654 syringe desech c/needle 1ml 27x13 1 pza $17. 16 $17. 16 $0. 00 $17. 16 $2. 75 $19. 91 [1ml]
+19654
+14/03/2025 19089 cubremouths tricape c/50 19089 2 pza $17. 50 $35. 00 $0. 00 $35. 00 $5. 60 $40. 60
+14/03/2025 22785 microclaves clear lim micro 30cm 3 1 pza $441. 90 $441. 90 $0. 00 $441. 90 $70. 70 $512. 60
+Vias 4031208
+14/03/2025 19654 syringe desech c/needle 1ml 27x13 1 pza $17. 16 $17. 16 $0. 00 $17. 16 $2. 75 $19. 91 [1ml]
+19654
+14/03/2025 16229 does pulls reactivas code free c/50 pzas 2 pza $46. 30 $92. 60 $0. 00 $92. 60 $14. 82 $107. 42
+16229
+14/03/2025 20735 lancet universal c/100 20735 2 pza $19. 00 $38. 00 $0. 00 $38. 00 $6. 08 $44. 08 [20735 l]
+14/03/2025 1549 fleboatk hemotek p/pump pisa 1 pza $495. 30 $495. 30 $0. 00 $495. 30 $79. 25 $574. 55
+4016165/as3 x-ts-000k /tcn22-0091-00
+14/03/2025 12990 syringe desech s/needle 20ml 12990 2 pza $27. 90 $55. 80 $0. 00 $55. 80 $8. 93 $64. 73 [20ml]
+14/03/2025 12987 syringe desech c/needle 3ml 21x32 2 pza $9. 20 $18. 40 $0. 00 $18. 40 $2. 94 $21. 34 [3ml]
+12987
+
+
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 5 of 8
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+14/03/2025 12989 syringe desech c/needle 10ml 21x32 2 pza $16. 10 $32. 20 $0. 00 $32. 20 $5. 15 $37. 35 [10ml]
+12989
+14/03/2025 3953 sojackfishn fisiologica cs 50ml pisa 1 pza $79. 10 $79. 10 $0. 00 $79. 10 $12. 66 $91. 76 [50ml]
+4000393
+14/03/2025 1214 sojackfishn hartman ht 1000ml pisa 1 pza $311. 60 $311. 60 $0. 00 $311. 60 $49. 86 $361. 46 [1000ml]
+4000089
+14/03/2025 12988 syringe desech c/needle 5ml 21x32 1 pza $10. 30 $10. 30 $0. 00 $10. 30 $1. 65 $11. 95 [5ml]
+12988
+14/03/2025 16229 does pulls reactivas code free c/50 pzas 1 pza $46. 30 $46. 30 $0. 00 $46. 30 $7. 41 $53. 71
+16229
+14/03/2025 20735 lancet universal c/100 20735 1 pza $19. 00 $19. 00 $0. 00 $19. 00 $3. 04 $22. 04 [20735 l]
+15/03/2025 15018 riñon of plastic disorder, unspecifiedo aseaillo 15018 1 pza $116. 00 $116. 00 $0. 00 $116. 00 $18. 56 $134. 56
+$16,429. 18 $0. 00 $16,429. 18 $2,628. 67 $19,057. 85
+
+Medicaments
+12/03/2025 2307 clexane 60mg jga 1 amp $944. 00 $944. 00 $0. 00 $944. 00 $151. 04 $1,095. 04 [60mg]
+12/03/2025 9304 hydrochlgoldthiazide 25mg tab 1 c $445. 02 $445. 02 $0. 00 $445. 02 $71. 20 $516. 22 [25mg]
+12/03/2025 4169 concor 2. 50 mg grag 1 c $1,802. 10 $1,802. 10 $0. 00 $1,802. 10 $288. 34 $2,090. 44 [2. 50 mg]
+12/03/2025 556 combivent amp c/10 1 amp $150. 50 $150. 50 $0. 00 $150. 50 $24. 08 $174. 58
+12/03/2025 16899 salpifar 1g/100ml 4031367 1 c $565. 80 $565. 80 $0. 00 $565. 80 $90. 53 $656. 33 [1g] [100ml]
+12/03/2025 16798 omeprazole fco amp 40mg 16798 1 amp $470. 41 $470. 41 $0. 00 $470. 41 $75. 27 $545. 68 [40mg]
+12/03/2025 21712 lysomucil 600 mg oral 20 tabletas 1 c $872. 46 $872. 46 $0. 00 $872. 46 $139. 59 $1,012. 05 [21712 l] [600 mg]
+Efervecentes
+12/03/2025 7678 tramadol 100mg amp 3 amp $104. 50 $313. 50 $0. 00 $313. 50 $50. 16 $363. 66 [100mg]
+12/03/2025 9998 budesonide. 500mg/2ml amp 4022572 1 amp $208. 62 $208. 62 $0. 00 $208. 62 $33. 38 $242. 00 [500mg] [2ml]
+Libonide
+12/03/2025 12290 antivon 8mg/4ml amp 4051006 1 amp $620. 20 $620. 20 $0. 00 $620. 20 $99. 23 $719. 43 [8mg] [4ml]
+12/03/2025 2392 depo-medrole amp 40mg x ml c/2ml 1 amp $608. 30 $608. 30 $0. 00 $608. 30 $97. 33 $705. 63 [40mg] [2ml]
+12/03/2025 6660 pisacaina 2% amp 10ml 4052049 1 amp $55. 40 $55. 40 $0. 00 $55. 40 $8. 86 $64. 26 [10ml]
+12/03/2025 26092 ropivacaina 2% c/5 amp 20 ml 1 amp $432. 00 $432. 00 $0. 00 $432. 00 $69. 12 $501. 12 [20 ml]
+12/03/2025 12290 antivon 8mg/4ml amp 4051006 1 amp $620. 20 $620. 20 $0. 00 $620. 20 $99. 23 $719. 43 [8mg] [4ml]
+12/03/2025 16899 salpifar 1g/100ml 4031367 1 c $565. 80 $565. 80 $0. 00 $565. 80 $90. 53 $656. 33 [1g] [100ml]
+12/03/2025 9998 budesonide. 500mg/2ml amp 4022572 1 amp $208. 62 $208. 62 $0. 00 $208. 62 $33. 38 $242. 00 [500mg] [2ml]
+Libonide
+12/03/2025 556 combivent amp c/10 1 amp $150. 50 $150. 50 $0. 00 $150. 50 $24. 08 $174. 58
+12/03/2025 20292 fenodid 0. 25 mg/5 ml amp c/6 4005753 1 amp $467. 10 $467. 10 $0. 00 $467. 10 $74. 74 $541. 84 [0. 25 mg] [5 ml]
+12/03/2025 16798 omeprazole fco amp 40mg 16798 1 amp $470. 41 $470. 41 $0. 00 $470. 41 $75. 27 $545. 68 [40mg]
+12/03/2025 556 combivent amp c/10 1 amp $150. 50 $150. 50 $0. 00 $150. 50 $24. 08 $174. 58
+13/03/2025 16621 telmisartan 40mg c/14 tab16621 1 c $544. 75 $544. 75 $0. 00 $544. 75 $87. 16 $631. 91 [40mg]
+13/03/2025 556 combivent amp c/10 1 amp $150. 50 $150. 50 $0. 00 $150. 50 $24. 08 $174. 58
+13/03/2025 12290 antivon 8mg/4ml amp 4051006 1 amp $620. 20 $620. 20 $0. 00 $620. 20 $99. 23 $719. 43 [8mg] [4ml]
+13/03/2025 16899 salpifar 1g/100ml 4031367 1 c $565. 80 $565. 80 $0. 00 $565. 80 $90. 53 $656. 33 [1g] [100ml]
+13/03/2025 9998 budesonide. 500mg/2ml amp 4022572 1 amp $208. 62 $208. 62 $0. 00 $208. 62 $33. 38 $242. 00 [500mg] [2ml]
+Libonide
+13/03/2025 2307 clexane 60mg jga 1 amp $944. 00 $944. 00 $0. 00 $944. 00 $151. 04 $1,095. 04 [60mg]
+13/03/2025 556 combivent amp c/10 1 amp $150. 50 $150. 50 $0. 00 $150. 50 $24. 08 $174. 58
+13/03/2025 21110 ketortidal wavec 30mgram/milliliter (qualifier value) amp21110 1 amp $196. 00 $196. 00 $0. 00 $196. 00 $31. 36 $227. 36 [30mg]
+13/03/2025 16899 salpifar 1g/100ml 4031367 1 c $565. 80 $565. 80 $0. 00 $565. 80 $90. 53 $656. 33 [1g] [100ml]
+13/03/2025 21110 ketortidal wavec 30mgram/milliliter (qualifier value) amp21110 1 amp $196. 00 $196. 00 $0. 00 $196. 00 $31. 36 $227. 36 [30mg]
+13/03/2025 6157 transtec 20mg plaque 1 c $3,573. 30 $3,573. 30 $0. 00 $3,573. 30 $571. 73 $4,145. 03 [20mg]
+13/03/2025 4451 ketortidal wavec tab 10mg 1 c $154. 86 $154. 86 $0. 00 $154. 86 $24. 78 $179. 63 [10mg]
+13/03/2025 4149 tafirole 1 gr tab c/20 1 c $1,112. 60 $1,112. 60 $0. 00 $1,112. 60 $178. 02 $1,290. 62 [1 g]
+13/03/2025 9998 budesonide. 500mg/2ml amp 4022572 1 amp $208. 62 $208. 62 $0. 00 $208. 62 $33. 38 $242. 00 [500mg] [2ml]
+Libonide
+13/03/2025 674 ketortidal wavec sl mavi 30mg c/4 1 c $117. 88 $117. 88 $0. 00 $117. 88 $18. 86 $136. 74 [30mg]
+13/03/2025 8017 omeprazole 40mg cap c/7 8017 1 c $558. 20 $558. 20 $0. 00 $558. 20 $89. 31 $647. 51 [40mg]
+13/03/2025 4451 ketortidal wavec tab 10mg -1 c $154. 86 -$154. 86 $0. 00 -$154. 86 -$24. 78 -$179. 63 [10mg]
+14/03/2025 556 combivent amp c/10 3 amp $150. 50 $451. 50 $0. 00 $451. 50 $72. 24 $523. 74
+
+
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 6 of 8
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+14/03/2025 7678 tramadol 100mg amp 1 amp $104. 50 $104. 50 $0. 00 $104. 50 $16. 72 $121. 22 [100mg]
+14/03/2025 4316 zyvoxam 300ml 2mg/1ml bag 1 bol. $2,234. 90 $2,234. 90 $0. 00 $2,234. 90 $357. 58 $2,592. 48 [300ml] [2mg] [1ml]
+14/03/2025 17847 supportan dkn 200ml 3 pza $288. 50 $865. 50 $0. 00 $865. 50 $138. 48 $1,003. 98 [200ml]
+14/03/2025 7678 tramadol 100mg amp -1 amp $104. 50 -$104. 50 $0. 00 -$104. 50 -$16. 72 -$121. 22 [100mg]
+14/03/2025 4316 zyvoxam 300ml 2mg/1ml bag -1 bol. $2,234. 90 -$2,234. 90 $0. 00 -$2,234. 90 -$357. 58 -$2,592. 48 [300ml] [2mg] [1ml]
+14/03/2025 4331 nifedipino10mg cap 1 c $489. 60 $489. 60 $0. 00 $489. 60 $78. 34 $567. 94 [10mg]
+14/03/2025 527 capcrop topril 25mg tab 1 c $193. 70 $193. 70 $0. 00 $193. 70 $30. 99 $224. 69 [25mg]
+14/03/2025 12290 antivon 8mg/4ml amp 4051006 1 amp $620. 20 $620. 20 $0. 00 $620. 20 $99. 23 $719. 43 [8mg] [4ml]
+14/03/2025 5307 difenidol (substance) (substance) 25mg tab 1 c $483. 70 $483. 70 $0. 00 $483. 70 $77. 39 $561. 09 [25mg]
+14/03/2025 16899 salpifar 1g/100ml 4031367 1 c $565. 80 $565. 80 $0. 00 $565. 80 $90. 53 $656. 33 [1g] [100ml]
+14/03/2025 2307 clexane 60mg jga 1 amp $944. 00 $944. 00 $0. 00 $944. 00 $151. 04 $1,095. 04 [60mg]
+14/03/2025 3025 vontrole amp 1 amp $260. 70 $260. 70 $0. 00 $260. 70 $41. 71 $302. 41
+14/03/2025 556 combivent amp c/10 1 amp $150. 50 $150. 50 $0. 00 $150. 50 $24. 08 $174. 58
+14/03/2025 21399 vaselina 60 gr nuvel 21399 1 pza $294. 74 $294. 74 $0. 00 $294. 74 $47. 16 $341. 89 [60 g]
+14/03/2025 9998 budesonide. 500mg/2ml amp 4022572 1 amp $208. 62 $208. 62 $0. 00 $208. 62 $33. 38 $242. 00 [500mg] [2ml]
+Libonide
+14/03/2025 12290 antivon 8mg/4ml amp 4051006 1 amp $620. 20 $620. 20 $0. 00 $620. 20 $99. 23 $719. 43 [8mg] [4ml]
+14/03/2025 556 combivent amp c/10 1 amp $150. 50 $150. 50 $0. 00 $150. 50 $24. 08 $174. 58
+14/03/2025 9998 budesonide. 500mg/2ml amp 4022572 1 amp $208. 62 $208. 62 $0. 00 $208. 62 $33. 38 $242. 00 [500mg] [2ml]
+Libonide
+14/03/2025 21110 ketortidal wavec 30mgram/milliliter (qualifier value) amp21110 1 amp $196. 00 $196. 00 $0. 00 $196. 00 $31. 36 $227. 36 [30mg]
+14/03/2025 12290 antivon 8mg/4ml amp 4051006 1 amp $620. 20 $620. 20 $0. 00 $620. 20 $99. 23 $719. 43 [8mg] [4ml]
+15/03/2025 4451 ketortidal wavec tab 10mg 1 c $154. 86 $154. 86 $0. 00 $154. 86 $24. 78 $179. 63 [10mg]
+15/03/2025 12290 antivon 8mg/4ml amp 4051006 1 amp $620. 20 $620. 20 $0. 00 $620. 20 $99. 23 $719. 43 [8mg] [4ml]
+$27,933. 34 $0. 00 $27,933. 34 $4,469. 33 $32,402. 68
+
+Terapia intensiva
+12/03/2025 173 pump of infusion 1 serv. $1,011. 60 $1,011. 60 $0. 00 $1,011. 60 $161. 86 $1,173. 46
+12/03/2025 190 oxigeneo by/for dia ti 1 serv. $5,001. 50 $5,001. 50 $0. 00 $5,001. 50 $800. 24 $5,801. 74
+12/03/2025 188 monitoreo electrocardiografico 1 serv. $4,635. 30 $4,635. 30 $0. 00 $4,635. 30 $741. 65 $5,376. 95
+By/for dia (terapia)
+13/03/2025 21127 terapia interarithmetic mean integral 1 serv. $13,712. 20 $13,712. 20 $0. 00 $13,712. 20 $2,193. 95 $15,906. 15
+13/03/2025 188 monitoreo electrocardiografico 1 serv. $4,635. 30 $4,635. 30 $0. 00 $4,635. 30 $741. 65 $5,376. 95
+By/for dia (terapia)
+13/03/2025 193 pump of infusion terapia 1 serv. $1,011. 60 $1,011. 60 $0. 00 $1,011. 60 $161. 86 $1,173. 46
+14/03/2025 21127 terapia interarithmetic mean integral 1 serv. $13,712. 20 $13,712. 20 $0. 00 $13,712. 20 $2,193. 95 $15,906. 15
+14/03/2025 193 pump of infusion terapia 1 serv. $1,011. 60 $1,011. 60 $0. 00 $1,011. 60 $161. 86 $1,173. 46
+15/03/2025 21127 terapia interarithmetic mean integral 1 serv. $13,712. 20 $13,712. 20 $0. 00 $13,712. 20 $2,193. 95 $15,906. 15
+12/03/2025 21127 terapia interarithmetic mean integral 1 serv. $13,712. 20 $13,712. 20 $0. 00 $13,712. 20 $2,193. 95 $15,906. 15
+13/03/2025 190 oxigeneo by/for dia ti 1 serv. $5,001. 50 $5,001. 50 $0. 00 $5,001. 50 $800. 24 $5,801. 74
+14/03/2025 190 oxigeneo by/for dia ti 1 serv. $5,001. 50 $5,001. 50 $0. 00 $5,001. 50 $800. 24 $5,801. 74
+14/03/2025 190 oxigeneo by/for dia ti 1 serv. $5,001. 50 $5,001. 50 $0. 00 $5,001. 50 $800. 24 $5,801. 74
+14/03/2025 188 monitoreo electrocardiografico 1 serv. $4,635. 30 $4,635. 30 $0. 00 $4,635. 30 $741. 65 $5,376. 95
+By/for dia (terapia)
+15/03/2025 188 monitoreo electrocardiografico 1 serv. $4,635. 30 $4,635. 30 $0. 00 $4,635. 30 $741. 65 $5,376. 95
+By/for dia (terapia)
+15/03/2025 193 pump of infusion terapia 1 serv. $1,011. 60 $1,011. 60 $0. 00 $1,011. 60 $161. 86 $1,173. 46
+15/03/2025 190 oxigeneo by/for dia ti 1 serv. $5,001. 50 $5,001. 50 $0. 00 $5,001. 50 $800. 24 $5,801. 74
+$102,443. 90 $0. 00 $102,443. 90 $16,391. 02 $118,834. 92
+
+Honorarios
+16/06/2025 6356 honorarios medicos surgeon 1 serv. $4,562. 00 $4,562. 00 $0. 00 $4,562. 00 $729. 92 $5,291. 92
+16/06/2025 6357 honorarios medicos anestesiologo 1 serv. $5,702. 00 $5,702. 00 $0. 00 $5,702. 00 $912. 32 $6,614. 32
+$10,264. 00 $0. 00 $10,264. 00 $1,642. 24 $11,906. 24
+
+
+
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 7 of 8
+Date id descripción cant. Uni. P. Unitario importe descto. Subtotal iva neto
+
+
+Importe total: $303,279. 92
+
+Descuento: $0. 00
+Deducible: $0. 00
+Coaconfident gm: $0. 00
+Coaconfident hm: $0. 00
+Subtotal: $303,279. 92
+Iva:: $48,524. 79
+Total: $351,804. 71
+
+
+
+
+Este documento representa a cuenta partial, este state of cuenta no is definitive sino hlance su egreso
+Facturasecciondetalleconprecio. Rpt 16/06/2025 page 8 of 8
+

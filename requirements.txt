@@ -1,0 +1,51 @@
+# Enfermera Elena - Mexican Medical Translation System
+# Requirements file for all dependencies
+
+# PDF Processing
+pdfplumber>=0.11.0          # Digital PDF text extraction
+PyMuPDF>=1.23.0            # PDF manipulation and overlay
+pdf2image>=1.17.0          # Convert PDF pages to images
+reportlab>=4.0.0           # PDF generation
+
+# OCR
+pytesseract>=0.3.10        # Tesseract Python wrapper
+Pillow>=10.0.0            # Image processing
+
+# Translation
+requests>=2.31.0           # API calls to translation services
+openai>=1.0.0             # OpenAI GPT API (optional)
+
+# Medical NLP
+transformers>=4.35.0       # HuggingFace models (BETO, RoBERTuito)
+torch>=2.0.0              # PyTorch for neural models
+sentencepiece>=0.1.99     # Tokenization for some models
+protobuf>=4.24.0          # Required by some models
+
+# Text Processing
+beautifulsoup4>=4.12.0    # HTML/hOCR parsing
+regex>=2023.10.0          # Advanced regex support
+python-dateutil>=2.8.2    # Date parsing and localization
+
+# Utilities
+pydantic>=2.5.0           # Configuration validation
+click>=8.1.0              # CLI interface
+python-dotenv>=1.0.0      # Environment variables
+tqdm>=4.66.0              # Progress bars
+
+# Optional: Database support
+psycopg2-binary>=2.9.0    # PostgreSQL adapter (optional)
+redis>=5.0.0              # Caching (optional)
+
+# Optional: vLLM for ALIA-40b
+# vllm>=0.2.0             # High-performance LLM serving
+# flash-attn>=2.0.0       # Attention optimization
+
+# Optional: Layout analysis
+# layoutparser>=0.3.4     # Deep learning document layout
+# detectron2>=0.6        # Object detection for layout
+
+# Development
+pytest>=7.4.0             # Testing framework
+black>=23.0.0             # Code formatting
+flake8>=6.0.0            # Linting
+ipython>=8.0.0           # Interactive shell
